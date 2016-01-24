@@ -19,7 +19,7 @@ the same directory as the executable. It parses the file and stores each individ
 into an arraylist. I then looped through the arraylist and checked if an individual "id" string 
 contained the element passed to the method. If the element was a subitem extra parsing was done.
 I assumed I was not supposed to use existing json libraries so I parsed the json myself. Optimized 
-with knowing there is only one level of sub items. If needed I could write a method to take a variable
+with knowing there is only one level of sub items. If needed I could write a method to take a variable 
 number of subitem levels.
 
 Compiling (commandline)
