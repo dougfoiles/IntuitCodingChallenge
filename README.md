@@ -1,2 +1,0 @@
-# IntuitCodingChallenge
-Three Coding Problems
