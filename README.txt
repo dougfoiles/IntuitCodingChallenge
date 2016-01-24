@@ -20,3 +20,9 @@ into an arraylist. I then looped through the arraylist and checked if an individ
 contained the element passed to the method. If the element was a subitem extra parsing was done.
 I assumed I was not supposed to use existing json libraries so I parsed the json myself. Optimized 
 with knowing there is only one level of sub items. 
+
+Compiling (commandline)
+javac CodingChallenge.java
+
+Running executable after compiling (commandline)
+java CodingChallenge
